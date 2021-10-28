@@ -5,7 +5,7 @@ This is a utility developed in python to convert a yaml to flat file. In this ca
 ## How to use
 a) Clone to your local - `git clone https://github.com/govindkailas/util.git && cd util`
 
-b) Install the python pre-req package - `pip install requirements.txt` 
+b) Install the python pre-req package - `pip install -r requirements.txt` 
 
    If `pip` is not installed follow https://pip.pypa.io/en/stable/installation/ to install pip first 
 
