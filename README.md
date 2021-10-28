@@ -7,6 +7,8 @@ a) Clone to your local - `git clone https://github.com/govindkailas/util.git && 
 
 b) Install the python pre-req package - `pip install requirements.txt` 
 
+   If `pip` is not installed follow https://pip.pypa.io/en/stable/installation/ to install pip first 
+
 c) Once the above steps are done, we are good to convert the yaml format file to fstab entry file - `python3 yamlutil.py <path_to_yaml_which_contain_fstab>`
 
 Note: Script will not overwrite your fstab entry, it will simply create a output file in the same folder.
