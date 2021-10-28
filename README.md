@@ -24,3 +24,6 @@ $ cat fstab-output.txt
 192.168.4.5 /home /var/nfs/home nfs  noexec,nosuid  0 0
 /dev/sda7 /mnt/Windows  ntfs-3g  quiet,defaults,locale=en_US.utf8,umask=0,noexec  0 0
 ```
+## Warning
+Before replacing your fstab with the script output, make sure to verify it and proceed only if its good. Wrong entries can screw up your linux machine!! 
+
